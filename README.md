@@ -19,7 +19,7 @@ This is a **Document Search Bot** built with **Next.js (TypeScript)**. It allows
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/OkeahDavid/dose.git
+git clone https://github.com/OkeahDavid/DoSe.git
 cd document-search-bot
 ```
 
